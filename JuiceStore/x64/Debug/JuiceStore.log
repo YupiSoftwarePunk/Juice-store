@@ -1,0 +1,13 @@
+﻿  store.cpp
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(60,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(65,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(70,34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(75,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(80,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(87,73): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(94,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(100,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(105,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\store.cpp(119,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  JuiceStore.vcxproj -> C:\Users\young\OneDrive\Документы\projects visual studio\JuiceStore\x64\Debug\JuiceStore.exe
